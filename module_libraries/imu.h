@@ -8,6 +8,8 @@
   Written by Sebastian Madgwick. 
   Ported for EasyMCU in C++ by Morteza Zandi + some modifications.
   All text above must be included in any redistribution
+	
+	BSD license, All text above must be included in any redistribution
  ****************************************************/
  
 #ifndef __IMU_H__
