@@ -1,5 +1,5 @@
 # IMU6_MPU6050
-6-DOF IMU based on MPU6050 &amp; ZedCross Board
+6-DOF IMU based on MPU6050 &amp; Zcross Board
 
 /!\ UART1(serial1) used as an output for printing IMU data.
 
@@ -14,8 +14,8 @@ SERIAL1:
 
 	
 Quick start:
-	1.Create a raw EMCU project for Zedcross board.
+	1.Create a raw EMCU project for Zcross board.
 	2.Copy content of "module_libraries" folder to <EMCU_DIR>\module_libraries
-	3.Replace config.h, isr.h, modules_lib.h, main.cpp with provided source files in repository.
+	3.Replace config.h, modules_lib.h, main.cpp with provided source files in the repository.
 
 	
